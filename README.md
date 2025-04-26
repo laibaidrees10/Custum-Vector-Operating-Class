@@ -40,11 +40,19 @@ Available Operations
 * Compare vectors (==, >, <)
 
 
-How to Compile and Run
+🛠 How to Run
 
-g++ main.cpp -o VectorApp
+* Clone or Download the project.
 
-./VectorApp
+Make sure you have a C++ compiler (like g++) installed.
+
+* Compile the project:
+
+g++ main.cpp -o VectorProgram
+
+* Run the executable:
+
+./VectorProgram
 
 
 Make sure vector.h is in the same directory as main.cpp.
