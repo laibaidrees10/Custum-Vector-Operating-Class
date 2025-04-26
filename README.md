@@ -9,6 +9,7 @@ How It Works
 
 * You can continue performing operations until you choose to Exit.
 
+
 Available Operations
 * Display elements
 
@@ -38,17 +39,22 @@ Available Operations
 
 * Compare vectors (==, >, <)
 
+
 How to Compile and Run
 
 g++ main.cpp -o VectorApp
+
 ./VectorApp
 
+
 Make sure vector.h is in the same directory as main.cpp.
+
 
 Files
   * main.cpp — Main program that controls the flow.
 
   * vector.h — Vector class template with operator overloading and various methods.
+
 
 Extra Notes
  * The program uses templates so it can work with different data types (like int, float, etc.).
@@ -58,15 +64,5 @@ Extra Notes
  * Overloaded operators are used for input/output and operations between vectors.
 
 🚀 Quick Start Example
-mathematica
-Copy
-Edit
-Enter size for Vector 1: 4
-Enter elements for Vector 1: 5 2 8 1
+![image](https://github.com/user-attachments/assets/12671121-8c14-4034-9205-52e2f632ff90)
 
-Menu:
-1. Display elements
-2. Add an element
-...
-21. Exit
-Enter your choice: 1
